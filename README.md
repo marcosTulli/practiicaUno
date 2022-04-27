@@ -13,7 +13,7 @@
 
 ### 3. Utilizando el ejercicio anterior (el formulario) y React-DOM:
 
-- Armar un componente que tenga título (<h1>) y un párrafo de texto (<p>) y
+- Armar un componente que tenga título \<h1>\ y un párrafo de texto \<p>\ y
   renderizarlo.
 
 ### 4. Utilizando la página generada en el ejercicio anterior, agregar la siguiente funcionalidad:
