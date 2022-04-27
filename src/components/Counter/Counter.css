@@ -1,0 +1,20 @@
+.counterWrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1em;
+  align-items: center;
+}
+
+.counterLabel,
+.counterButton {
+  margin-bottom: 0.5em;
+}
+
+.counterButton {
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 0 1em 0 1em;
+  cursor: pointer;
+}
