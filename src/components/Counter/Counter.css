@@ -18,3 +18,7 @@
   padding: 0 1em 0 1em;
   cursor: pointer;
 }
+
+.counterButton:hover {
+  background-color: rgb(137, 187, 245);
+}

@@ -4,9 +4,8 @@ import Counter from '../Counter/Counter';
 import Heading from '../Heading/Heading';
 import { months } from '../../months';
 
-// 2. Crear un formulario, básico sin funcionalidad.
 const days = Array.from(Array(31)).map((_, i) => i + 1);
-const years = Array.from(Array(100)).map((_, i) => i - 2022);
+const years = Array.from(Array(100)).map((_, i) => i + 1920);
 
 const Form = () => {
   return (
